@@ -24,7 +24,7 @@ use localStorage to store the toke and for verify Token i have use -> Header  an
   -> About is checking that a if their is token in LocalStorage 
 ![alt text](https://github.com/soumitya0/SimpleLoginReact/blob/master/login2.PNG)<br>
 
-# Logged in
+# After Logged in
 ![alt text](https://github.com/soumitya0/SimpleLoginReact/blob/master/login3.PNG)<br>
 
 ![alt text](https://github.com/soumitya0/SimpleLoginReact/blob/master/login4.PNG)<br>
