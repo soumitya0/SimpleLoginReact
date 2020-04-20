@@ -20,7 +20,7 @@ use localStorage to store the toke and for verify Token i have use -> Header  an
 
 # protected ROUTE
   here About and secrete is a Protected Route and both of them a verfiy by different way
-  -> secret is verfiy by the passing token in  header 
+  -> secret is verfiy by the passing token in  header <br>
   -> About is checking that a if their is token in LocalStorage 
 ![alt text](https://github.com/soumitya0/SimpleLoginReact/blob/master/login2.PNG)<br>
 
